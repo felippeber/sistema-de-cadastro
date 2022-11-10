@@ -1,1 +1,1 @@
-console.log("Criando o arquivo js com o console")
+console.log("Rodando o sistema de gerenciamento de jogos")
