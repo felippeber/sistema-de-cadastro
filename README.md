@@ -1,4 +1,7 @@
-<h1> Sistema de cadastro de jogos</h1>
+![Capa do projeto Github](https://github.com/felippeber/sistema-de-cadastro/assets/95502827/b0aa406f-ec18-4763-b8c6-3eb10d43b277)
+
+<h1 align="center"> Sistema de cadastro de jogos</h1>
+
 
 >Status do projeto: Em desenvolvimento
 
